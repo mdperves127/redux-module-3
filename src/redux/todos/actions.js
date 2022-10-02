@@ -5,7 +5,7 @@ import {
     COLORSELECTED,
     DELETED,
     TOGGLED
-} from "./actionTYpes"
+} from "./actionTypes"
 
 export const added = (todoText) => {
     return {
